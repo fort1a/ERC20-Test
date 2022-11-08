@@ -1,0 +1,11 @@
+Simple objectives:
+
+1. CREATE SUPPLY (50,000)
+
+2. MAKE A MAXIMUM AMOUNT FOR SUPPLY (1,000,000)
+
+3. SELFDESTRUCT FUNCTION
+
+Contract deployed address: 0xe8BEfBD1d5CF252F37dc70C4eF9b822Aa4a87f18
+
+https://goerli.etherscan.io/address/0xe8BEfBD1d5CF252F37dc70C4eF9b822Aa4a87f18
